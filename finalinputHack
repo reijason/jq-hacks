@@ -1,3 +1,5 @@
+<!--change tag name hack-->
+
 <script type="text/javascript">
 
      $('finalinput.field:not(.field2)').replaceWith(function() {
